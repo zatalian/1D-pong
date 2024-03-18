@@ -11,6 +11,6 @@
 ## stap 4: Druk op install
 ![Tux, the Linux mascot](/images/platformio4.png)
 
-## stap 5: U vindt platformIO IDE nu links in uw beeld(allien)µ
+## stap 5: U vindt platformIO IDE nu links in uw beeld(allien)
 ![Tux, the Linux mascot](/images/platformio5.png)
 
