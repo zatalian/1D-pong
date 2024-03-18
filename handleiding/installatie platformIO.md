@@ -1,1 +1,1 @@
-# Hoe platformIO IDE installeren
+# Installatie platformIO IDE
