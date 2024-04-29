@@ -23,22 +23,22 @@ Open de verpakking van de microcontroller en soldeer de headers vast op de micro
 ## Stap 2:
 Soldeer de voetjes vast op de printplaat. Zorg dat de microcontroller in de voetjes past.
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap2.png)
 
 ## Stap 3:
 Soldeer de 2 condensatoren (100 nF) vast op de printplaat.
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap3.png)
 
 ## Stap 4:
 Soldeer de PPTC op de printplaat.
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap4.png)
 
 ## Stap 5:
 Soldeer de 2 weerstanden (2,7 kOhm) op de printplaat.
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap5.png)
 
 ## Stap 6:
 Soldeer de 2 rode LEDs op de printplaat. POLARITEIT
