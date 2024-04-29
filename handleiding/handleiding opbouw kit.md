@@ -14,5 +14,6 @@ Sam Spruyt & Stan De Sitter
 -	2x weerstend 2,7 kOhm
 -	1x AAA batterijhouder
 -	BEHUIZING
-  
+  ![Tux, the Linux mascot](/images/handleiding1.png)
+
 
