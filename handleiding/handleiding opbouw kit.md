@@ -75,7 +75,7 @@ verder met behuizing
 
 <foto> + aanduiden
 
-## Stap XX
+## Stap 13
 Stop nu de batterijen in de batterijhouder. Als het goed is gaan er lichtjes branden. U bent nu klaar om het spel “1D-pong” te spelen.
 
 <foto> + aanduiden
