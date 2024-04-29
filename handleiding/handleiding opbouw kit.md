@@ -83,6 +83,6 @@ Stop nu de batterijen in de batterijhouder. Als het goed is gaan er lichtjes bra
 
 
 
-Proficiat het project is klaar!
-
+# Proficiat het project is klaar!
+<foto>
 
