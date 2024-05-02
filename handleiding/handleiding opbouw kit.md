@@ -43,22 +43,26 @@ Soldeer de 2 weerstanden (2,7 kOhm) op de printplaat.
 ## Stap 6:
 Soldeer de 2 rode LEDs op de printplaat. POLARITEIT
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap6.png)
+
 
 ## Stap 7:
 Soldeer de 10 weerstanden (150 Ohm) op de printplaat.
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap7.png)
+
 
 ## Stap 8:
 Soldeer de 8 groene LEDs op de printplaat POLARITEIT
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap8.png)
+
 
 ## Stap 9:
 Soldeer de 2 drukknoppen op de printplaat.
 
-<foto> + aanduiden
+ ![Tux, the Linux mascot](/images/handleidingstap9.png)
+
 
 ## Stap 10:
 Soldeer de batterijhouder op de printplaat. Dit is het laatste dat gesoldeerd moet worden, nu gaan we verder met het ineen steken van de kit.
