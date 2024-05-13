@@ -18,11 +18,11 @@
 -	2x weerstend 2,7 kOhm
 -	1x AAA batterijhouder
 -	!!! BEHUIZING !!!
-  ![Tux, the Linux mascot](/images/handleiding1.png)
+  ![Tux, the Linux mascot](/images/handleidingstap0.png)
 ## Stap 1:
 Open de verpakking van de microcontroller en soldeer de headers vast op de microcontroller.
 
-<foto> + aanduiden
+![Tux, the Linux mascot](/images/handleidingstap1.pdf)
 
 ## Stap 2:
 Soldeer de voetjes vast op de printplaat. Zorg dat de microcontroller in de voetjes past.
