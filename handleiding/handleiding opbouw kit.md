@@ -18,7 +18,7 @@
 -	10x weerstand 150 Ohm
 -	2x weerstend 2,7 kOhm
 -	1x AAA batterijhouder
--	#FF0000 BEHUIZING #FF0000
+-	'#FF0000' BEHUIZING '#FF0000'
   ![Tux, the Linux mascot](/images/handleiding1.png)
 ## Stap 1:
 Open de verpakking van de microcontroller en soldeer de headers vast op de microcontroller.
