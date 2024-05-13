@@ -1,5 +1,10 @@
-# handleiding solderen kit
+# Handleiding solderen kit
 Sam Spruyt & Stan De Sitter
+# Handleiding solderen kit
+## Handleiding solderen kit
+### Handleiding solderen kit
+#### Handleiding solderen kit
+##### Handleiding solderen kit
 ## Inhoud van de kit:
 -	1x printplaat
 -	2x voetjes
