@@ -22,7 +22,7 @@
 ## Stap 1:
 Open de verpakking van de microcontroller en soldeer de headers vast op de microcontroller.
 
-![Tux, the Linux mascot](/images/handleidingstap1.pdf)
+![Tux, the Linux mascot](/images/handleidingstap1.png)
 
 ## Stap 2:
 Soldeer de voetjes vast op de printplaat. Zorg dat de microcontroller in de voetjes past.
