@@ -36,24 +36,24 @@ Soldeer de PPTC op de printplaat.
  ![Tux, the Linux mascot](/images/handleidingstap4.png)
 
 ## Stap 5:
-Soldeer de 2 weerstanden (2,7 kOhm) op de printplaat.
+Soldeer de 2 weerstanden van 2,7 kOhm (kleur: rood, paars, zwart, bruin, bruin) op de printplaat.
 
  ![Tux, the Linux mascot](/images/handleidingstap5.png)
 
 ## Stap 6:
-Soldeer de 2 rode LEDs op de printplaat. POLARITEIT
+Soldeer de 2 rode LEDs op de printplaat. Let er op dat het langste beentje van de LED door het '+' gaatje moet.
 
  ![Tux, the Linux mascot](/images/handleidingstap6.png)
 
 
 ## Stap 7:
-Soldeer de 10 weerstanden (150 Ohm) op de printplaat.
+Soldeer de 10 weerstanden van 150 Ohm (kleur: bruin, groen, zwart, zwart, bruin) op de printplaat.
 
  ![Tux, the Linux mascot](/images/handleidingstap7.png)
 
 
 ## Stap 8:
-Soldeer de 8 groene LEDs op de printplaat POLARITEIT
+Soldeer de 8 groene LEDs op de printplaat. Let er op dat het langste beentje van de LED door het '+' gaatje moet.
 
  ![Tux, the Linux mascot](/images/handleidingstap8.png)
 
@@ -65,12 +65,12 @@ Soldeer de 2 drukknoppen op de printplaat.
 
 
 ## Stap 10:
-Soldeer de batterijhouder op de printplaat. Dit is het laatste dat gesoldeerd moet worden, nu gaan we verder met het ineen steken van de kit.
+Soldeer de batterijhouder op de printplaat. Dit is het laatste dat gesoldeerd moet worden, nu gaan we verder met het vastmaken van de batterijhouder en de behuizing.
 
 <foto> + aanduiden
 
 ## Stap 11:
-Pak de vijzen en steek ze in de gaten van de batterijhouder. (eventueel volgende stap hier) Draai de moeren op de vijzen.
+Pak de vijzen en steek ze in de gaten van de batterijhouder. Draai de moeren op de vijzen.
 
 <foto> + aanduiden
 
