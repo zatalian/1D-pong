@@ -1,6 +1,6 @@
-# Handleiding solderen kit
-Sam Spruyt & Stan De Sitter
-# Handleiding solderen kit
+# Handleiding voor het solderen van de 1D-pong kit
+*Sam Spruyt & Stan De Sitter*
+*Handleiding solderen kit*
 ## Handleiding solderen kit
 ### Handleiding solderen kit
 #### Handleiding solderen kit
@@ -18,7 +18,7 @@ Sam Spruyt & Stan De Sitter
 -	10x weerstand 150 Ohm
 -	2x weerstend 2,7 kOhm
 -	1x AAA batterijhouder
--	BEHUIZING
+-	`#ff0000`BEHUIZING
   ![Tux, the Linux mascot](/images/handleiding1.png)
 ## Stap 1:
 Open de verpakking van de microcontroller en soldeer de headers vast op de microcontroller.
