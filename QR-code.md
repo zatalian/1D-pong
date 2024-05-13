@@ -1,2 +1,2 @@
 # QR-code Github
-![Tux, the Linux mascot](/images/Untitled(1).png)
+![Tux, the Linux mascot](/images/QRgithub.png)
