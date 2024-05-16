@@ -16,7 +16,7 @@
 -	2x vijzen M3x10
 -	2x moeren M3
 
-  ![Tux, the Linux mascot](/images/handleidingstap0.png)
+  ![Tux, the Linux mascot](/images/handleidingstap00.png)
 ## Stap 1:
 Open de verpakking van de microcontroller en soldeer de headers vast op de microcontroller.
 
