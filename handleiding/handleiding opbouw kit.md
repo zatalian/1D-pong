@@ -5,11 +5,11 @@
 -	2x voetjes
 -	2x drukknop
 -	2x condensator 100 nF
--	10x weerstand 150 Ohm
--	2x weerstand 2,7 kOhm
+-	1x PPTC
 -	8x LED groen
 -	2x LED rood
--	1x PPTC
+-	10x weerstand 150 Ohm
+-	2x weerstand 2,7 kOhm
 - 1x microcontroller
 -	1x AAA batterijhouder
 -	3x AAA batterij
