@@ -2,17 +2,17 @@
 *Sam Spruyt & Stan De Sitter*
 ## Inhoud van de kit:
 -	(1) 1x printplaat
--	2x voetjes
--	2x drukknop
--	2x condensator 100 nF
--	1x PPTC
--	8x LED groen
--	2x LED rood
--	10x weerstand 150 Ohm
--	2x weerstand 2,7 kOhm
-- 1x microcontroller
--	1x AAA batterijhouder
--	3x AAA batterij
+-	(2) 2x voetjes
+-	(3) 2x drukknop
+-	(4) 2x condensator 100 nF
+-	(5) 1x PPTC
+-	(6) 8x LED groen
+-	(7) 2x LED rood
+-	(8) 10x weerstand 150 Ohm
+-	(9) 2x weerstand 2,7 kOhm
+- (10) 1x microcontroller
+-	(11) 1x AAA batterijhouder
+-	(12) 3x AAA batterij
 -	2x vijzen M3x10
 -	2x moeren M3
 
