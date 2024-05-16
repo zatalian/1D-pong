@@ -6,15 +6,15 @@
 -	2x drukknop
 -	2x condensator 100 nF
 -	10x weerstand 150 Ohm
--	2x weerstend 2,7 kOhm
+-	2x weerstand 2,7 kOhm
 -	8x LED groen
 -	2x LED rood
 -	1x PPTC
 - 1x microcontroller
 -	1x AAA batterijhouder
 -	3x AAA batterij
--	2 vijzen (M3 x 10)
--	2 moeren (M3)
+-	2x vijzen (M3 x 10)
+-	2x moeren (M3)
 
   ![Tux, the Linux mascot](/images/handleidingstap0.png)
 ## Stap 1:
