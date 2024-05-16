@@ -1,7 +1,7 @@
 # Handleiding voor het solderen van de 1D-pong kit
 *Sam Spruyt & Stan De Sitter*
 ## Inhoud van de kit:
--	1x printplaat
+-	(1) 1x printplaat
 -	2x voetjes
 -	2x drukknop
 -	2x condensator 100 nF
@@ -13,8 +13,8 @@
 - 1x microcontroller
 -	1x AAA batterijhouder
 -	3x AAA batterij
--	2x vijzen M3x10      [niet op de foto]
--	2x moeren M3      [niet op de foto]
+-	2x vijzen M3x10
+-	2x moeren M3
 
   ![Tux, the Linux mascot](/images/handleidingstap0.png)
 ## Stap 1:
