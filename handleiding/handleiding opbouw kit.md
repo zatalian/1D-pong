@@ -13,8 +13,8 @@
 - 1x microcontroller
 -	1x AAA batterijhouder
 -	3x AAA batterij
--	2x vijzen (M3 x 10)
--	2x moeren (M3)
+-	2x vijzen M3x10  [niet op de foto]
+-	2x moeren M3  [niet op de foto]
 
   ![Tux, the Linux mascot](/images/handleidingstap0.png)
 ## Stap 1:
