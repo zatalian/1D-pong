@@ -81,6 +81,9 @@ Pak de vijzen en steek ze in de gaten van de batterijhouder. Draai de moeren vas
 ![Tux, the Linux mascot](/images/handleidingstap11b.png)
 
 ## Stap 12:
+Pak de microcontroller (10) en steek hem in de voetjes (2) met de USB aansluiting naar de buitenkant.
+
+## Stap 13:
 Stop nu de batterijen (12) in de batterijhouder (11). Als het goed is gaan er lichtjes branden. U bent nu klaar om het spel “1D-pong” te spelen.
 
 
