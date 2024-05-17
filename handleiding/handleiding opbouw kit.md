@@ -38,7 +38,7 @@ Soldeer de PPTC (5) op de printplaat (1).
  ![Tux, the Linux mascot](/images/handleidingstap4.png)
 
 ## Stap 5:
-Soldeer de 2 weerstanden van 2,7 kOhm (kleurcode: rood, paars, zwart, bruin, bruin) (9) op de printplaat (1).
+Soldeer de 2 weerstanden van 2,7 kOhm (9) (kleurcode: rood, paars, zwart, bruin, bruin) op de printplaat (1).
 
  ![Tux, the Linux mascot](/images/handleidingstap5.png)
 
@@ -49,7 +49,7 @@ Soldeer de 2 rode LEDs (7) op de printplaat (1). LET OP: het langste beentje van
 
 
 ## Stap 7:
-Soldeer de 10 weerstanden van 150 Ohm (kleur: bruin, groen, zwart, zwart, bruin) (8) op de printplaat (1).
+Soldeer de 10 weerstanden van 150 Ohm (8) (kleur: bruin, groen, zwart, zwart, bruin) op de printplaat (1).
 
  ![Tux, the Linux mascot](/images/handleidingstap7.png)
 
