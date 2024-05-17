@@ -23,51 +23,51 @@ Open de verpakking van de microcontroller (10) en soldeer de headers vast op de 
 ![Tux, the Linux mascot](/images/handleidingstap1.png)
 
 ## Stap 2:
-Soldeer de voetjes vast op de printplaat. Zorg dat de microcontroller in de voetjes past.
+Soldeer de 2 voetjes (2) vast op de printplaat (1). Zorg ervoor dat de microcontroller (10) in de voetjes (2) past.
 
  ![Tux, the Linux mascot](/images/handleidingstap2.png)
 
 ## Stap 3:
-Soldeer de 2 condensatoren (100 nF) vast op de printplaat.
+Soldeer de 2 condensatoren van 100 nF (4) vast op de printplaat (1).
 
  ![Tux, the Linux mascot](/images/handleidingstap3.png)
 
 ## Stap 4:
-Soldeer de PPTC op de printplaat.
+Soldeer de PPTC (5) op de printplaat (1).
 
  ![Tux, the Linux mascot](/images/handleidingstap4.png)
 
 ## Stap 5:
-Soldeer de 2 weerstanden van 2,7 kOhm (kleur: rood, paars, zwart, bruin, bruin) op de printplaat.
+Soldeer de 2 weerstanden van 2,7 kOhm (kleurcode: rood, paars, zwart, bruin, bruin) (9) op de printplaat (1).
 
  ![Tux, the Linux mascot](/images/handleidingstap5.png)
 
 ## Stap 6:
-Soldeer de 2 rode LEDs op de printplaat. Let er op dat het langste beentje van de LED door het '+' gaatje moet.
+Soldeer de 2 rode LEDs (7) op de printplaat (1). LET OP: het langste beentje van de LED moet door het '+' gaatje.
 
  ![Tux, the Linux mascot](/images/handleidingstap6.png)
 
 
 ## Stap 7:
-Soldeer de 10 weerstanden van 150 Ohm (kleur: bruin, groen, zwart, zwart, bruin) op de printplaat.
+Soldeer de 10 weerstanden van 150 Ohm (kleur: bruin, groen, zwart, zwart, bruin) (8) op de printplaat (1).
 
  ![Tux, the Linux mascot](/images/handleidingstap7.png)
 
 
 ## Stap 8:
-Soldeer de 8 groene LEDs op de printplaat. Let er op dat het langste beentje van de LED door het '+' gaatje moet.
+Soldeer de 8 groene LEDs (6) op de printplaat (1). LET OP: het langste beentje van de LED moet door het '+' gaatje.
 
  ![Tux, the Linux mascot](/images/handleidingstap8.png)
 
 
 ## Stap 9:
-Soldeer de 2 drukknoppen op de printplaat.
+Soldeer de 2 drukknoppen (3) op de printplaat (1).
 
  ![Tux, the Linux mascot](/images/handleidingstap9.png)
 
 
 ## Stap 10:
-Soldeer de batterijhouder op de printplaat. Dit is het laatste dat gesoldeerd moet worden, nu gaan we verder met het vastmaken van de batterijhouder en de behuizing.
+Soldeer de batterijhouder (11) op de printplaat (1). Dit is het laatste dat gesoldeerd moet worden, nu gaan we verder met het vastmaken van de batterijhouder (11) aan de printplaat (1).
 
 <foto> + aanduiden
 
