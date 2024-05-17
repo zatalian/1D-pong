@@ -18,7 +18,7 @@
 
   ![Tux, the Linux mascot](/images/handleidingstap0.jpg)
 ## Stap 1:
-Open de verpakking van de microcontroller (10) en soldeer de headers vast op de microcontroller.
+Open de verpakking van de microcontroller (10) en soldeer de headers vast op de microcontroller (10).
 
 ![Tux, the Linux mascot](/images/handleidingstap1.png)
 
