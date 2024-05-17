@@ -69,7 +69,7 @@ Soldeer de 2 drukknoppen (3) op de printplaat (1).
 ## Stap 10:
 Soldeer de batterijhouder (11) op de printplaat (1).  
 LET OP: het rode draadje moet door de '+' (kijk naar de achterkant), het zwarte draadje door de '-'.  
-LET OP: steek de draadjes er langs de achterkant in en soldeer ze via de voorkant vast.
+LET OP: steek de draadjes er langs de achterkant in en soldeer ze via de voorkant vast. <br />
 <foto> + aanduiden
 
 ## Stap 11:
