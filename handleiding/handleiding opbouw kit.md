@@ -75,7 +75,7 @@ LET OP: steek de draadjes er langs de achterkant in en soldeer ze via de voorkan
 ![Tux, the Linux mascot](/images/handleidingstap10b.png)
 
 ## Stap 11:
-Pak de vijzen en steek ze in de gaten van de batterijhouder. Draai de moeren vast op de vijzen.
+Pak de vijzen en steek ze in de gaten van de batterijhouder (11). Draai de moeren vast op de vijzen.
 
 ![Tux, the Linux mascot](/images/handleidingstap11a.png)
 ![Tux, the Linux mascot](/images/handleidingstap11b.png)
