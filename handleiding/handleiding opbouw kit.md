@@ -63,15 +63,14 @@ Soldeer de 8 groene LEDs (6) op de printplaat (1). LET OP: het langste beentje v
 ## Stap 9:
 Soldeer de 2 drukknoppen (3) op de printplaat (1).
 
- ![Tux, the Linux mascot](/images/handleidingstap9.png)
-
+ ![Tux, the Linux mascot](/images/handleidingstap10a.png)
 
 ## Stap 10:
 Soldeer de batterijhouder (11) op de printplaat (1).  
 LET OP: het rode draadje moet door de '+' (kijk naar de achterkant), het zwarte draadje door de '-'.  
 LET OP: steek de draadjes er langs de achterkant in en soldeer ze via de voorkant vast. <br />
-<foto> + aanduiden
 
+ ![Tux, the Linux mascot](/images/handleidingstap3.png)
 ## Stap 11:
 Pak de vijzen en steek ze in de gaten van de batterijhouder. Draai de moeren op de vijzen.
 
