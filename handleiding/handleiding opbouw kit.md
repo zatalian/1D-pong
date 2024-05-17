@@ -50,7 +50,7 @@ Soldeer de 2 rode LEDs (7) op de printplaat (1). LET OP: het langste beentje van
 
 
 ## Stap 7:
-Soldeer de 10 weerstanden van 150 Ohm (8) (kleur: bruin, groen, zwart, zwart, bruin) op de printplaat (1).
+Soldeer de 10 weerstanden van 150 Ohm (8) (kleurcode: bruin, groen, zwart, zwart, bruin) op de printplaat (1).
 
 ![Tux, the Linux mascot](/images/handleidingstap7.png)
 
