@@ -14,6 +14,6 @@ Dit is de meest recente data in verban met het project.
 ## Code_Platformio
 - Code in platformio (openen met Visual Studio Code) om naar microcontroller te sturen.
 ## Componenten
-- Benodigde componenten (aantal zelf aan te passen), de 2 vijzen + 2 moeren voor het vastzetten van de batterijhouder zijn NIET inbegrepen.
+- Benodigde componenten (aantal zelf aanpassen), de 2 vijzen + 2 moeren voor het vastzetten van de batterijhouder zijn NIET inbegrepen.
 ## PCB_Gegevens
 - Bestanden nodig om PCB te kunnen laten printen een aanpassen. Lees de READ_ME.
